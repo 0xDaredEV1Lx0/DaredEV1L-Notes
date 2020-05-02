@@ -113,7 +113,7 @@ LETS DO some Privilige Escalation to get some of root permissions in this Machin
 
 Now we have to $ sudo nano /opt/priv 
 
-Then 
+Then .. you need to ctrl R to Write /root/root.txt 
 
 ![21](https://user-images.githubusercontent.com/43730847/80858305-9edab280-8c26-11ea-868c-aad304b6de25.png)
 

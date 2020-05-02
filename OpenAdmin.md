@@ -34,8 +34,8 @@ and also i got http://10.10.10.171/ona/ from GOBUSTER .. I hurried to open it & 
 
 
 
-Oh yeaah here we are  , OpenNetAdmin provides a database managed inventory of your IP network , and this version is v18.1.1 ... i dont wanna use Metasploit Framework "root@kali:~# searchsploit openadmin" i hate that and i wont ever learn like that .. it make things more easy , but no FUN :( ... So ,  
-... i asked GooGle if its Vurnalble or not  , amriunix told me there was a Vurnable published on 18-1-2020 and gave me this one
+Oh yeaah here we are  , OpenNetAdmin provides a database managed inventory of your IP network , and this version is v18.1.1 ... 
+I asked GooGle if its Vurnalble or not  , amriunix told me there was a Vurnable published on 18-1-2020 and gave me this one
 https://github.com/amriunix/ona-rce/blob/master/ona-rce.py , its Remote Code Execution vulnerability written in python3
 to get shell in BOX, I tried it and its WORKED <3 
  

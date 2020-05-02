@@ -63,8 +63,7 @@ SO, i tried $ cat /etc/passwd .. & got
 
 ![09](https://user-images.githubusercontent.com/43730847/80855642-d63e6480-8c10-11ea-80b7-2ec59d7a8fe3.png)
 
-After i grep all "no login" and deleted all thats lines, i found 'jimmy' & 'joanna' will be my users 
-i think 'joanna' Girl & 'jimmy' Boy ... i loved joanna so i will SSH with her first <3 
+After i grep all "no login" and deleted all thats lines,i loved joanna so i will SSH with her first  
 
 ![10](https://user-images.githubusercontent.com/43730847/80855797-09352800-8c12-11ea-930d-abe009209149.png)
 
